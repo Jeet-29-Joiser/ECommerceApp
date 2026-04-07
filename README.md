@@ -94,7 +94,7 @@ com.example.ecommerceapp
 ## 📡 API Used
 
 - https://dummyjson.com/products
-- 
+ 
 ---
 
 ## 🔥 Key Highlights
