@@ -93,9 +93,8 @@ com.example.ecommerceapp
 
 ## 📡 API Used
 
-- https://dummyjson.com/products  
-- https://fakestoreapi.com/  
-
+- https://dummyjson.com/products
+- 
 ---
 
 ## 🔥 Key Highlights
